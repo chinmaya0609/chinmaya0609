@@ -1,5 +1,5 @@
--  Welcome :)
 - 👋 Hi, I’m @chinmaya0609
+- Welcome! :) This is my Github Profile.
 - 🌱 I’m currently learning Python
 
 
